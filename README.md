@@ -1,1 +1,2 @@
 # The-DLDC-Codes
+The repository is an accompanying material for the paper: Saha, S., Park, C., Knapik, S., Guo, J., Huang, O. and Liu, W.K., 2023. Deep learning discrete calculus (DLDC): a family of discrete numerical methods by universal approximation for STEM education to frontier research. Computational Mechanics, pp.1-21. (https://link.springer.com/article/10.1007/s00466-023-02292-0). Please cite the paper if you use the codes. 
